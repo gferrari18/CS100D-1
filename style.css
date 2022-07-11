@@ -1,0 +1,19 @@
+.firstpara {
+    color:blue;
+    font-size: 12px;
+    text-decoration: double;
+}
+
+.secondpara {
+    color:crimson;
+    font-size: 10px;
+    text-shadow: 2px;
+}
+
+p{
+    color:aquamarine
+}
+
+body{
+    background-color: rgb(48, 197, 160);
+}
